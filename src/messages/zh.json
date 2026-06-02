@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "阿廖沙红军纪念碑 & Bunardzhika山 – 普罗夫迪夫，保加利亚",
+    "description": "阿廖沙红军纪念碑及Bunardzhika山完整旅游指南。了解这个普罗夫迪夫的标志性景点，包括位置、历史和游客信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "阿廖沙红军纪念碑",
+    "subtitle": "普罗夫迪夫州 · Bunardzhika 山",
+    "rating": "4.6",
+    "reviewCount": "5,175 条评价",
+    "type": "纪念碑 / 公园",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/vqoPaMATs3mQh3EL6"
+  },
+  "intro": {
+    "title": "探索“阿廖沙”与 Bunardzhika 山",
+    "description": "苏联军队纪念碑，俗称“阿廖沙”（Alyosha），是一座宏伟的11米高的钢筋混凝土苏联士兵雕像。它巍然矗立在普罗夫迪夫的 Bunardzhika 山上，可俯瞰令人惊叹的城市全景。公园本身也是游客探索、散步和放松的最爱之地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "要塞全年开放，免费进入。",
+        "最佳游览时间是清晨或傍晚。",
+        "有长椅和休息区。",
+        "适合带孩子和宠物散步。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "古老的石墙和遗迹",
+        "令人惊叹的全景",
+        "浓厚的历史氛围",
+        "乘坐公共交通工具轻松抵达"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于纪念碑与公园",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与名称",
+        "content": "“阿廖沙”纪念碑建于1954-1957年，为了纪念二战期间苏联在保加利亚的伤亡。它所在的 Bunardzhika 山（也被称为解放者之山）是普罗夫迪夫著名的山丘之一。"
+      },
+      {
+        "id": "geography",
+        "title": "位置与交通",
+        "content": "公园和纪念碑位于普罗夫迪夫市中心，坐落在一座引人注目的山丘上。可以通过风景优美的公园小径步行到达，提供令人难忘的历史和自然之旅。"
+      },
+      {
+        "id": "architecture",
+        "title": "设施与基础设施",
+        "content": "Bunardzhika 公园拥有保存完好的步行道、郁郁葱葱的绿植和休息区。它是历史爱好者和自然爱好者的热门目的地。"
+      },
+      {
+        "id": "protection",
+        "title": "管理与维护",
+        "content": "纪念碑及周边公园由地方当局作为普罗夫迪夫市重要的文化和休闲场所进行维护。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "Bunardzhika 山和纪念碑什么时候开放？",
+        "answer": "公园和纪念碑区域全年开放，全天可供游客参观。没有具体的营业时间限制。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "不需要，所有游客都可以免费进入要塞。"
+      },
+      {
+        "question": "有儿童游乐场吗？",
+        "answer": "是的，要塞里有儿童游乐场，孩子们可以在户外玩耍。"
+      },
+      {
+        "question": "轮椅使用者可以进入要塞吗？",
+        "answer": "要塞有一些林荫道适合轮椅使用者，但某些区域可能具有挑战性。请提前计划您的访问。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "阿廖沙红军纪念碑",
+    "type": "景点类型",
+    "typeValue": "纪念碑 / 公园",
+    "country": "国家",
+    "countryValue": "保加利亚 (Bulgaria)",
+    "city": "城市",
+    "cityValue": "普罗夫迪夫 (Plovdiv)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.6 (5,175) 纪念碑 / 4.7 (4,130) 公园",
+    "address": "地址",
+    "addressValue": "Бунарджика, 4000 Plovdiv, 保加利亚",
+    "telephone": "联系电话",
+    "telephoneValue": "+35932656700 (公园)",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "部分区域可通行",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "4PVQ+G4 普罗夫迪夫, 保加利亚"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "要塞进入",
+    "parkTime": "全年开放，24/7",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：天气宜人，鲜花盛开",
+    "bestTimeSummer": "夏季：建议清晨或傍晚游览",
+    "bestTimeAutumn": "秋季：温度适中，适合散步",
+    "bestTimeWinter": "冬季：人少，氛围宁静",
+    "tip": "预留1-2小时充分游览。夏季请携带水和防晒用品。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "要塞进入",
+    "parkPrice": "免费",
+    "parking": "停车",
+    "parkingPrice": "周边街道停车位",
+    "guided": "导游服务",
+    "guidedPrice": "无官方导游服务"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从普罗夫迪夫市中心",
+    "fromCenterDesc": "从普罗夫迪夫市中心出发，沿 A2 高速公路向西（舒门方向）行驶，在普罗夫迪夫（Plovdiv）出口下高速，沿 208 号公路进入镇中心。全程约 40-50 分钟。",
+    "fromStation": "公共交通",
+    "fromStationDesc": "从普罗夫迪夫火车站/汽车站出发，步行约 20-30 分钟或乘坐出租车 5 分钟即可到达要塞的主要步道入口。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "从普罗夫迪夫机场出发，直接驶入 A2 高速公路向西行驶，约 40 分钟车程即可到达普罗夫迪夫。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "普罗夫迪夫和普罗夫迪夫之间每天有定期的火车 (BDZ) 和巴士。抵达后，您可以徒步登山或乘坐出租车前往北侧停车场。",
+    "walking": "步行",
+    "walkingDesc": "如需步行前往要塞，可从普罗夫迪夫镇内的 'Youth Hill' 街沿东侧的岩石阶梯拾级而上，或选择西侧的生态步道。",
+    "driving": "自驾",
+    "drivingDesc": "最便捷的方式是自驾前往北门（Northern Entrance），那里设有专用停车场。在镇中心顺着“Крепост Овеч”的指示牌行驶即可到达。",
+    "getDirections": "获取前往路线"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索要塞及其周边环境。",
+    "steps": [
+      "进入 Youth Hill",
+      "走过壮观的桥梁",
+      "探索古老的遗迹",
+      "欣赏令人惊叹的全景",
+      "拍摄难忘的照片"
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "Youth Hill 之美",
+    "captions": [
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片",
+      "阿廖沙纪念碑与 Bunardzhika 山照片"
+    ],
+    "viewAll": "在Google地图上查看更多照片",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "伊万 P.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "非常棒的要塞。有很多历史遗迹，氛围宁静。"
+      },
+      {
+        "name": "玛丽亚 K.",
+        "rating": 5,
+        "date": "2026-04-22",
+        "text": "带孩子散步的完美地点。有很好的游乐场。"
+      },
+      {
+        "name": "格奥尔基 S.",
+        "rating": 4,
+        "date": "2026-03-10",
+        "text": "我喜欢这个要塞。维护良好且干净。"
+      },
+      {
+        "name": "埃琳娜 T.",
+        "rating": 5,
+        "date": "2026-02-18",
+        "text": "这是我在普罗夫迪夫最喜欢的地方之一。强烈推荐！"
+      },
+      {
+        "name": "彼得 D.",
+        "rating": 5,
+        "date": "2026-01-25",
+        "text": "非常适合休闲和户外运动的宜人之地。"
+      },
+      {
+        "name": "安娜 M.",
+        "rating": 4,
+        "date": "2025-12-30",
+        "text": "非常好的历史遗址。非常适合游览。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Бунарджика, 4000 Plovdiv, 保加利亚",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "阿廖沙红军纪念碑",
+    "brandSubtitle": "普罗夫迪夫州 · Bunardzhika 山",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "bgTourism": "https://www.tourism.government.bg/",
+      "bgCulture": "https://mc.government.bg/",
+      "bgVisa": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria/",
+      "plovdivCity": "https://www.plovdiv.bg/",
+      "plovdivGov": "https://pd.government.bg/",
+      "plovdivTourism": "http://www.visitplovdiv.com/",
+      "bgHeritage": "http://ninkn.bg/"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "officialLinksText": {
+      "bgTourism": "保加利亚共和国旅游部",
+      "bgCulture": "保加利亚文化部",
+      "bgVisa": "保加利亚共和国外交部领事服务局 (签证专属)",
+      "plovdivCity": "普罗夫迪夫市政府",
+      "plovdivGov": "普罗夫迪夫州政府",
+      "plovdivTourism": "普罗夫迪夫市旅游局",
+      "bgHeritage": "保加利亚文化遗产研究所 (NINKN)"
+    }
+  },
+  "officialManagement": {
+    "title": "关于 Youth Hill",
+    "text": "Youth Hill 由地方当局和文化遗产组织维护。它是保加利亚历史地标的重要组成部分。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年6月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年6月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关Youth Hill的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}

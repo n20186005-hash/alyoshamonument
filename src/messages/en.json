@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "Monument of the Red Army \"Alyosha\" & Bunardzhika Hill – Plovdiv, Bulgaria",
+    "description": "Complete travel guide to the Monument of the Red Army \"Alyosha\" and Bunardzhika Hill in Plovdiv. Learn about this iconic landmark, including location, history, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Monument of the Red Army \"Alyosha\"",
+    "subtitle": "Plovdiv Province · Bunardzhika Hill",
+    "rating": "4.6",
+    "reviewCount": "5,175 reviews",
+    "type": "Monument / Park",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/vqoPaMATs3mQh3EL6"
+  },
+  "intro": {
+    "title": "Discover \"Alyosha\" & Bunardzhika Hill",
+    "description": "The Monument of the Soviet Army, commonly known as \"Alyosha\", is a magnificent 11-metre tall reinforced concrete statue of a Soviet soldier. It stands majestically on Bunardzhika Hill in Plovdiv, offering breathtaking panoramic views of the city. The park itself is a favorite place for exploration, walking, and relaxation for visitors.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The fortress is open year-round and free to access.",
+        "Best time to visit is early morning or evening.",
+        "There are benches and resting areas.",
+        "Suitable for walks with children and pets."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Ancient stone walls and ruins",
+        "Stunning panoramic views",
+        "Historical atmosphere",
+        "Easy access by public transport"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About the Monument & Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Name",
+        "content": "Built in 1954-1957, the \"Alyosha\" monument commemorates Soviet casualties during the Soviet occupation of Bulgaria in World War II. The hill it stands on, Bunardzhika (also known as the Hill of Liberators), is one of Plovdiv's famous hills."
+      },
+      {
+        "id": "geography",
+        "title": "Location & Access",
+        "content": "Located in central Plovdiv, the park and monument are situated on a striking hill. It is accessible by foot through scenic park trails and offers an unforgettable historical and natural journey."
+      },
+      {
+        "id": "architecture",
+        "title": "Amenities & Infrastructure",
+        "content": "The Bunardzhika park features well-preserved walking paths, lush greenery, and resting areas. It is a popular destination for both history enthusiasts and nature lovers."
+      },
+      {
+        "id": "protection",
+        "title": "Management & Maintenance",
+        "content": "The monument and the surrounding park are maintained by local authorities as an important cultural and recreational site for the city of Plovdiv."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "When is Bunardzhika Hill and the monument open?",
+        "answer": "The park and the monument area are open year-round and accessible to visitors throughout the day. There are no specific operating hours restrictions."
+      },
+      {
+        "question": "Is there an entrance fee?",
+        "answer": "No, access to the fortress is completely free for all visitors."
+      },
+      {
+        "question": "Are there children's playgrounds?",
+        "answer": "Yes, there are children's playgrounds in the fortress where kids can play outdoors."
+      },
+      {
+        "question": "Is the fortress accessible for wheelchair users?",
+        "answer": "The fortress has alleys that are suitable for wheelchair users, but some areas may be challenging. Please plan your visit in advance."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Monument of the Red Army \"Alyosha\"",
+    "type": "Attraction Type",
+    "typeValue": "Monument / Park",
+    "country": "Country",
+    "countryValue": "Bulgaria",
+    "city": "City",
+    "cityValue": "Plovdiv",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.6 (5,175) for Monument / 4.7 (4,130) for Park",
+    "address": "Address",
+    "addressValue": "Бунарджика, 4000 Plovdiv, Bulgaria",
+    "telephone": "Contact Phone",
+    "telephoneValue": "+35932656700 (Park)",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Partially accessible",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "4PVQ+G4 Plovdiv, Bulgaria"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Park Access",
+    "parkTime": "Year-round, 24/7",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, blooming flowers",
+    "bestTimeSummer": "Summer: Early morning or evening recommended",
+    "bestTimeAutumn": "Autumn: Mild temperatures, ideal for walks",
+    "bestTimeWinter": "Winter: Fewer crowds, peaceful atmosphere",
+    "tip": "Allow 1-2 hours for a full visit. Bring water and sun protection in summer."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Park Access",
+    "parkPrice": "Free",
+    "parking": "Parking",
+    "parkingPrice": "Street parking available in the area",
+    "guided": "Guided Tours",
+    "guidedPrice": "No official guided tours"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Plovdiv Center",
+    "fromCenterDesc": "From Plovdiv, take the A2 highway west towards Shumen. Take the Plovdiv exit and follow route 208 directly into the town center. The drive takes about 40-50 minutes.",
+    "fromStation": "By Public Transport",
+    "fromStationDesc": "From Plovdiv railway/bus station, the fortress is about a 20-30 minute walk or a 5-minute taxi ride to the main trailheads.",
+    "fromAirport": "From the Airport",
+    "fromAirportDesc": "From Plovdiv Airport, take the A2 highway west. The drive to Plovdiv takes approximately 40 minutes.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Regular trains (BDZ) and buses run daily from Plovdiv to Plovdiv. Upon arriving in Plovdiv, you can hike up or take a taxi to the northern parking area.",
+    "walking": "Walking",
+    "walkingDesc": "To reach the fortress on foot, head to the eastern stairs starting from 'Youth Hill' street in Plovdiv, or take the western eco-trail.",
+    "driving": "Driving",
+    "drivingDesc": "For the easiest access, drive to the Northern Entrance where a dedicated parking lot is available. Follow the signs for 'Крепост Овеч' from the town center.",
+    "getDirections": "Get Directions"
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Explore the fortress and its surroundings.",
+    "steps": [
+      "Enter Youth Hill",
+      "Walk along the bridge",
+      "Explore the ancient ruins",
+      "Enjoy the panoramic views",
+      "Take memorable photos"
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The Beauty of Youth Hill",
+    "captions": [
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo",
+      "Alyosha Monument & Bunardzhika Hill photo"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ivan P.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "Wonderful fortress for walking. Lots of history and peaceful atmosphere."
+      },
+      {
+        "name": "Maria K.",
+        "rating": 5,
+        "date": "2026-04-22",
+        "text": "Perfect place for a walk with kids. Has good playgrounds."
+      },
+      {
+        "name": "Georgi S.",
+        "rating": 4,
+        "date": "2026-03-10",
+        "text": "I like this park. Well maintained and clean."
+      },
+      {
+        "name": "Elena T.",
+        "rating": 5,
+        "date": "2026-02-18",
+        "text": "One of my favorite places in Plovdiv. Highly recommend it!"
+      },
+      {
+        "name": "Peter D.",
+        "rating": 5,
+        "date": "2026-01-25",
+        "text": "Very nice place for relaxation and outdoor sports."
+      },
+      {
+        "name": "Anna M.",
+        "rating": 4,
+        "date": "2025-12-30",
+        "text": "Great historical site. Ideal for visiting."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Бунарджика, 4000 Plovdiv, Bulgaria",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "\"Alyosha\" Monument",
+    "brandSubtitle": "Plovdiv Province · Bunardzhika Hill",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "bgTourism": "https://www.tourism.government.bg/",
+      "bgCulture": "https://mc.government.bg/",
+      "bgVisa": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria/",
+      "plovdivCity": "https://www.plovdiv.bg/",
+      "plovdivGov": "https://pd.government.bg/",
+      "plovdivTourism": "http://www.visitplovdiv.com/",
+      "bgHeritage": "http://ninkn.bg/"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "officialLinksText": {
+      "bgTourism": "Ministry of Tourism of the Republic of Bulgaria",
+      "bgCulture": "Ministry of Culture of Bulgaria",
+      "bgVisa": "MFA Consular Services (Visas)",
+      "plovdivCity": "Plovdiv Municipality",
+      "plovdivGov": "Plovdiv District Administration",
+      "plovdivTourism": "Visit Plovdiv",
+      "bgHeritage": "National Institute of Immovable Cultural Heritage (NINKN)"
+    }
+  },
+  "officialManagement": {
+    "title": "About Youth Hill",
+    "text": "Youth Hill is maintained by the local authorities and cultural heritage organizations. It is an important part of Bulgaria's historical landmarks."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about Youth Hill. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}
