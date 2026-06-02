@@ -1,7 +1,7 @@
 monument-red-army-alyosha-plovdiv
 
 我们网站是
-
+alyoshamonument.com
 检查一遍看下是否有错误
 
 丰富下页面内容现在的内容还是太薄的了
@@ -24,6 +24,17 @@ maps.google.com 的响应时间过长。
 我们网站是
 
 检查一遍看下是否有错误
+
+
+
+1、普罗夫迪夫州 · Bunardzhika 山 这样的翻译有误全站遍历一遍并修正不要出现翻译混淆
+2、我们网站是
+alyoshamonument.com
+检查一遍看下是否有错误
+
+
+
+
 
 
 
@@ -54,6 +65,65 @@ Monument of the Red Army "Alyosha"
 4PVQ+G4 Plovdiv, Bulgaria
 
 https://maps.app.goo.gl/vqoPaMATs3mQh3EL6
+
+
+纪念碑是在"Bunardzhika" Hill公园里面
+
+"Bunardzhika" Hill
+Хълм „Бунарджикa“
+4.7(4,130)
+公园
+Halm Na OsvoboditeliteCentral district, 4002 Plovdiv, 保加利亚
++35932656700
+4PVQ+Q9 普罗夫迪夫 保加利亚
+
+
+### 填表分项（中英对照）
+1. **国家/地区（Country/Region）**
+中文：保加利亚
+英文：Bulgaria
+
+2. **地址行1（Address Line 1）**
+中文：Бунарджика
+英文：Bunardzhika
+> 注：当地保加利亚语原名填此行
+
+3. **地址行2（Address Line 2，选填）**
+中文：4PVQ+G4
+英文：4PVQ+G4
+> 注：Plus编码填此行
+
+4. **城市（City）**
+中文：普罗夫迪夫
+英文：Plovdiv
+
+5. **省/自治区/直辖市（State/Province）**
+中文：普罗夫迪夫州
+英文：Plovdiv Province
+
+6. **邮政编码（Postal Code）**
+中文：4000
+英文：4000
+
+### 汇总精简版
+|项目|中文内容|英文内容|
+| ---- | ---- | ---- |
+|国家/地区|保加利亚|Bulgaria|
+|地址行1|布纳尔吉卡（Бунарджика）|Bunardzhika|
+|地址行2|4PVQ+G4|4PVQ+G4|
+|城市|普罗夫迪夫|Plovdiv|
+|省|普罗夫迪夫州|Plovdiv Province|
+|邮编|4000|4000|
+
+
+这个单景点买域名推荐.com
+
+alyoshamonument
+
+
+
+
+这两个景点是在同一个地方 我需要做一个景点独立的网站 我要怎么做比较合适
 
 
 首屏背景图要引用以下

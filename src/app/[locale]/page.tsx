@@ -18,7 +18,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://youthhillplovdiv.com';
+  const baseUrl = 'https://alyoshamonument.com';
   return {
     alternates: {
       canonical: `${baseUrl}/${locale}`,

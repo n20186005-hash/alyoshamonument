@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://youthhillplovdiv.com';
+  const baseUrl = 'https://alyoshamonument.com';
   
   const entries: MetadataRoute.Sitemap = [];
 
