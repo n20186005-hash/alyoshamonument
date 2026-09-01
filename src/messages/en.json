@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Monument of the Red Army \"Alyosha\" & Bunardzhika Hill – Plovdiv, Bulgaria",
-    "description": "Complete travel guide to the Monument of the Red Army \"Alyosha\" and Bunardzhika Hill in Plovdiv. Learn about this iconic landmark, including location, history, and visitor information."
+    "title": "Monument of the Red Army \"Alyosha\" (Plovdiv) - Visitor Guide & Location",
+    "description": "Discover the Monument of the Red Army \"Alyosha\", the iconic 11-metre Soviet statue on Bunardzhika Hill in Plovdiv, Bulgaria. View location map, opening hours, sunset viewpoints, nearby Old Town & Ancient Roman Theatre, and travel tips."
   },
   "header": {
     "home": "Home",
@@ -12,57 +12,58 @@
   },
   "hero": {
     "title": "Monument of the Red Army \"Alyosha\"",
-    "subtitle": "Plovdiv Province · Bunardzhika Hill",
+    "city": "Plovdiv",
+    "subtitle": "Monument of the Red Army · Bunardzhika Hill, Plovdiv",
     "rating": "4.6",
-    "reviewCount": "5,175 reviews",
+    "reviewCount": "5,284 reviews",
     "type": "Monument / Park",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/vqoPaMATs3mQh3EL6"
   },
   "intro": {
-    "title": "Discover \"Alyosha\" & Bunardzhika Hill",
-    "description": "The Monument of the Soviet Army, commonly known as \"Alyosha\", is a magnificent 11-metre tall reinforced concrete statue of a Soviet soldier. It stands majestically on Bunardzhika Hill in Plovdiv, offering breathtaking panoramic views of the city. The park itself is a favorite place for exploration, walking, and relaxation for visitors.",
+    "title": "Visiting the Alyosha Monument on Bunardzhika Hill",
+    "description": "The Alyosha Monument (officially the Monument of the Red Army, Bulgarian: Паметник на Червената армия „Альоша“) is an 11-metre-tall statue of a Soviet soldier standing on Bunardzhika Hill (Хълм „Бунарджика“), also known as the Hill of Liberators. Erected between 1954 and 1957, it is one of Plovdiv's most recognisable landmarks and offers sweeping panoramic views over the city — especially at sunset. From the monument you can also reach nearby landmarks such as the Ancient Roman Theatre and Plovdiv's Old Town, both a short walk downhill.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The fortress is open year-round and free to access.",
-        "Best time to visit is early morning or evening.",
-        "There are benches and resting areas.",
-        "Suitable for walks with children and pets."
+        "Free access — the monument is open 24/7, year-round.",
+        "Allow about 20–25 minutes to walk up from the foot of the hill.",
+        "Best time to visit is late afternoon for the sunset panorama.",
+        "Wear comfortable shoes; the final stretch includes stairs."
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Names & Aliases",
       "items": [
-        "Ancient stone walls and ruins",
-        "Stunning panoramic views",
-        "Historical atmosphere",
-        "Easy access by public transport"
+        "Monument of the Soviet Army \"Alyosha\"",
+        "Паметник на Червената армия „Альоша“",
+        "Soviet Monument Plovdiv / Red Army Statue Plovdiv",
+        "Bunardzhika Hill / Hill of Liberators (Хълм „Бунарджика“)"
       ]
     }
   },
   "knowledge": {
-    "title": "About the Monument & Park",
+    "title": "History, Architecture & Facts",
     "sections": [
       {
         "id": "history",
-        "title": "History & Name",
-        "content": "Built in 1954-1957, the \"Alyosha\" monument commemorates Soviet casualties during the Soviet occupation of Bulgaria in World War II. The hill it stands on, Bunardzhika (also known as the Hill of Liberators), is one of Plovdiv's famous hills."
+        "title": "History & Origins",
+        "content": "The idea for the monument dates to the late 1940s, and construction ran from 1954 to 1957. It was unveiled in 1957, on the 40th anniversary of the October Revolution, honouring Soviet soldiers who fell during World War II. The statue was created by a team of Bulgarian sculptors including Vasil Radoslavov, Lyubomir Kotsev, Ivan Topalov and Todor Zankov."
       },
       {
-        "id": "geography",
-        "title": "Location & Access",
-        "content": "Located in central Plovdiv, the park and monument are situated on a striking hill. It is accessible by foot through scenic park trails and offers an unforgettable historical and natural journey."
+        "id": "name",
+        "title": "Why \"Alyosha\"?",
+        "content": "According to a widely told story, the monument was inspired by Aleksey (Alyosha) Skurlatov, a Soviet signalman who served in Plovdiv in 1944–1947 and befriended the locals. The affectionate nickname was spread across the USSR by the famous 1966 Soviet song \"Alyosha\", written about this very monument."
       },
       {
         "id": "architecture",
-        "title": "Amenities & Infrastructure",
-        "content": "The Bunardzhika park features well-preserved walking paths, lush greenery, and resting areas. It is a popular destination for both history enthusiasts and nature lovers."
+        "title": "Architecture & Design",
+        "content": "The 11-metre statue of a soldier holding a lowered submachine gun stands on a 6-metre pedestal, giving a total height of about 17 metres. The figure is made of reinforced concrete and faces east, towards the centre of Plovdiv. A long alley and stairways lead up to the wide esplanade around the monument."
       },
       {
         "id": "protection",
-        "title": "Management & Maintenance",
-        "content": "The monument and the surrounding park are maintained by local authorities as an important cultural and recreational site for the city of Plovdiv."
+        "title": "Maintenance & Debates",
+        "content": "After the political changes of 1989, Plovdiv repeatedly debated whether to dismantle the monument. It has remained in place and is today maintained by Plovdiv Municipality as part of Bunardzhika park. The monument is now generally read as a historical landmark and a viewpoint rather than a political statement."
       }
     ]
   },
@@ -70,20 +71,36 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "When is Bunardzhika Hill and the monument open?",
-        "answer": "The park and the monument area are open year-round and accessible to visitors throughout the day. There are no specific operating hours restrictions."
+        "question": "Is the Alyosha Monument free to visit?",
+        "answer": "Yes. The monument and Bunardzhika Hill park are free and open to the public 24/7, year-round. There is no ticket office or entrance gate."
       },
       {
-        "question": "Is there an entrance fee?",
-        "answer": "No, access to the fortress is completely free for all visitors."
+        "question": "How do I get to the Alyosha Monument from the centre of Plovdiv?",
+        "answer": "From the Old Town, walk along Hristo G. Danov Street to Ruski Boulevard (бул. „Руски“), then continue to the foot of the hill — about 15 minutes. From the park entrance, all paths lead to the top in roughly 20–25 minutes."
       },
       {
-        "question": "Are there children's playgrounds?",
-        "answer": "Yes, there are children's playgrounds in the fortress where kids can play outdoors."
+        "question": "Can I drive up to the monument?",
+        "answer": "No. The road to the summit is closed to private cars. You can park on the streets around the foot of Bunardzhika Hill and walk up."
       },
       {
-        "question": "Is the fortress accessible for wheelchair users?",
-        "answer": "The fortress has alleys that are suitable for wheelchair users, but some areas may be challenging. Please plan your visit in advance."
+        "question": "What is the best time to visit?",
+        "answer": "Sunset is the most popular time: from the esplanade you get a golden panorama over Plovdiv, the Maritsa river and the Rhodope mountains on the horizon. Early mornings are quiet and cooler in summer."
+      },
+      {
+        "question": "Why is the monument called \"Alyosha\"?",
+        "answer": "Locals nicknamed the monument after the Soviet soldier Aleksey Skurlatov, who served in Plovdiv in the 1940s. The nickname became famous across the USSR thanks to the 1966 song \"Alyosha\"."
+      },
+      {
+        "question": "Are there stairs on the way up?",
+        "answer": "Yes, parts of the path include stairways, so comfortable shoes are recommended. The total climb is moderate and takes about 20–25 minutes at a relaxed pace."
+      },
+      {
+        "question": "Are there toilets, restaurants or shops near the monument?",
+        "answer": "Facilities on the summit are limited: public toilets are usually available near the monument esplanade. For restaurants, cafés and supermarkets, walk down to the foot of the hill or into the city centre — all within 15–25 minutes on foot. Bring water and snacks for the climb."
+      },
+      {
+        "question": "Can I visit in the evening for the sunset or the city lights?",
+        "answer": "Yes, the monument is open 24/7. Arrive about 30–40 minutes before sunset to find a good spot on the esplanade. The park paths are only partly lit after dark, so bring a flashlight and watch your step on the stairs."
       }
     ]
   },
@@ -98,81 +115,81 @@
     "city": "City",
     "cityValue": "Plovdiv",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (5,175) for Monument / 4.7 (4,130) for Park",
+    "googleRatingValue": "4.6 (5,284) Monument / 4.7 (4,130) Park",
     "address": "Address",
-    "addressValue": "Бунарджика, 4000 Plovdiv, Bulgaria",
+    "addressValue": "Bunardzhika Hill (Хълм „Бунарджика“), 4000 Plovdiv, Bulgaria",
     "telephone": "Contact Phone",
-    "telephoneValue": "+35932656700 (Park)",
+    "telephoneValue": "+35932656700 (Park Administration)",
     "accessibility": "Accessibility",
-    "accessibilityValue": "Partially accessible",
+    "accessibilityValue": "Park paths are accessible; the final section includes stairs",
     "plusCode": "Plus Code",
     "plusCodeValue": "4PVQ+G4 Plovdiv, Bulgaria"
   },
   "hours": {
     "title": "Visiting Hours",
-    "park": "Park Access",
-    "parkTime": "Year-round, 24/7",
+    "park": "Monument Access",
+    "parkTime": "Open 24/7, free admission",
     "bestTime": "Best Time to Visit",
     "bestTimeSpring": "Spring: Pleasant weather, blooming flowers",
     "bestTimeSummer": "Summer: Early morning or evening recommended",
     "bestTimeAutumn": "Autumn: Mild temperatures, ideal for walks",
     "bestTimeWinter": "Winter: Fewer crowds, peaceful atmosphere",
-    "tip": "Allow 1-2 hours for a full visit. Bring water and sun protection in summer."
+    "tip": "Allow 1–2 hours for the round trip. Bring water and sun protection in summer."
   },
   "tickets": {
     "title": "Admission Information",
-    "park": "Park Access",
-    "parkPrice": "Free",
+    "park": "Monument Access",
+    "parkPrice": "Free (no ticket required)",
     "parking": "Parking",
-    "parkingPrice": "Street parking available in the area",
+    "parkingPrice": "Street parking at the foot of the hill",
     "guided": "Guided Tours",
-    "guidedPrice": "No official guided tours"
+    "guidedPrice": "No official guided tours — self-guided walk is easy"
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Plovdiv Center",
-    "fromCenterDesc": "From Plovdiv, take the A2 highway west towards Shumen. Take the Plovdiv exit and follow route 208 directly into the town center. The drive takes about 40-50 minutes.",
-    "fromStation": "By Public Transport",
-    "fromStationDesc": "From Plovdiv railway/bus station, the fortress is about a 20-30 minute walk or a 5-minute taxi ride to the main trailheads.",
-    "fromAirport": "From the Airport",
-    "fromAirportDesc": "From Plovdiv Airport, take the A2 highway west. The drive to Plovdiv takes approximately 40 minutes.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Regular trains (BDZ) and buses run daily from Plovdiv to Plovdiv. Upon arriving in Plovdiv, you can hike up or take a taxi to the northern parking area.",
+    "fromCenter": "From Plovdiv Old Town / Centre",
+    "fromCenterDesc": "From the Ancient Roman Stadium, follow Hristo G. Danov Street towards Ruski Boulevard (бул. „Руски“). After about 15 minutes of walking you reach the foot of Bunardzhika Hill; from there the park paths lead to the top in 20–25 minutes.",
+    "fromStation": "From the Railway & Bus Station",
+    "fromStationDesc": "The Central Railway Station and Yug bus station are about 20 minutes on foot along Ruski Boulevard to the foot of the hill. Alternatively take a taxi to the park entrance (5 minutes).",
+    "fromAirport": "From Plovdiv Airport",
+    "fromAirportDesc": "Plovdiv Airport (PDV) is about 13 km from the city centre. Take a taxi or rental car to the foot of Bunardzhika Hill — around 30–40 minutes depending on traffic. There is no direct public transport from the airport.",
+    "publicTransport": "By Public Transport",
+    "publicTransportDesc": "City buses run along Ruski Boulevard and stop near the hill (get off around Markovo Tepe shopping centre). From the stop it is a 10–15 minute walk to the park entrance.",
     "walking": "Walking",
-    "walkingDesc": "To reach the fortress on foot, head to the eastern stairs starting from 'Youth Hill' street in Plovdiv, or take the western eco-trail.",
+    "walkingDesc": "All three approaches (from the Old Town, Tsar Simeon Garden, or the railway station) converge on the park at the foot of Bunardzhika Hill. The climb to the Alyosha Monument takes about 20–25 minutes along scenic, shaded paths.",
     "driving": "Driving",
-    "drivingDesc": "For the easiest access, drive to the Northern Entrance where a dedicated parking lot is available. Follow the signs for 'Крепост Овеч' from the town center.",
+    "drivingDesc": "The summit road is closed to private cars. Park on the streets around the foot of the hill and walk up the final section.",
     "getDirections": "Get Directions"
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "Explore the fortress and its surroundings.",
+    "title": "Recommended Route Up the Hill",
+    "overview": "A classic walk to the summit of Bunardzhika Hill and back.",
     "steps": [
-      "Enter Youth Hill",
-      "Walk along the bridge",
-      "Explore the ancient ruins",
-      "Enjoy the panoramic views",
-      "Take memorable photos"
+      "Start at the park entrance at the foot of Bunardzhika Hill",
+      "Follow the main alley and stairways up through the greenery",
+      "Reach the esplanade with the 11-metre statue",
+      "Take in the 360° panorama of Plovdiv from the terrace",
+      "Stay for sunset or head back down the western path"
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "The Beauty of Youth Hill",
+    "subtitle": "Alyosha Monument & Bunardzhika Hill views",
     "captions": [
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo",
-      "Alyosha Monument & Bunardzhika Hill photo"
+      "Alyosha Monument on Bunardzhika Hill, Plovdiv",
+      "The statue and esplanade of the Alyosha Monument",
+      "Panoramic view over Plovdiv from Bunardzhika Hill",
+      "Alyosha Monument against the sky, Plovdiv",
+      "Bunardzhika Hill park path leading to the monument",
+      "Sunset viewpoint at the Alyosha Monument, Plovdiv",
+      "Monument of the Red Army Alyosha seen from below",
+      "Plovdiv city panorama from the Hill of Liberators",
+      "Alyosha Monument in the evening light",
+      "Base and sculpture details of the Alyosha Monument",
+      "Stairway up Bunardzhika Hill to the monument",
+      "Soviet Monument Plovdiv with the Rhodope hills behind",
+      "Quiet park trails around the Alyosha Monument",
+      "The best sunset spot in Plovdiv — Bunardzhika Hill"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAll": "View All Photos",
@@ -187,49 +204,207 @@
         "name": "Ivan P.",
         "rating": 5,
         "date": "2026-05-15",
-        "text": "Wonderful fortress for walking. Lots of history and peaceful atmosphere."
+        "text": "Impressive monument with a fantastic view over Plovdiv. The walk up is pleasant and shaded."
       },
       {
         "name": "Maria K.",
         "rating": 5,
         "date": "2026-04-22",
-        "text": "Perfect place for a walk with kids. Has good playgrounds."
+        "text": "We came for sunset — the panorama of the whole city from up here is unforgettable."
       },
       {
         "name": "Georgi S.",
         "rating": 4,
         "date": "2026-03-10",
-        "text": "I like this park. Well maintained and clean."
+        "text": "Well-kept park around the monument. Great place for a quiet walk."
       },
       {
         "name": "Elena T.",
         "rating": 5,
         "date": "2026-02-18",
-        "text": "One of my favorite places in Plovdiv. Highly recommend it!"
+        "text": "One of the best viewpoints in Plovdiv. The statue is much more impressive in person."
       },
       {
         "name": "Peter D.",
         "rating": 5,
         "date": "2026-01-25",
-        "text": "Very nice place for relaxation and outdoor sports."
+        "text": "Easy climb, peaceful atmosphere, and a beautiful view of the Rhodope mountains."
       },
       {
         "name": "Anna M.",
         "rating": 4,
         "date": "2025-12-30",
-        "text": "Great historical site. Ideal for visiting."
+        "text": "Interesting monument with a complicated history — worth reading up before you visit."
       }
     ]
   },
   "mapSection": {
     "title": "Map Location",
-    "subtitle": "Бунарджика, 4000 Plovdiv, Bulgaria",
+    "subtitle": "Bunardzhika Hill, 4000 Plovdiv, Bulgaria",
     "openMaps": "View on Google Maps"
   },
+  "facilities": {
+    "title": "Facilities Around the Monument",
+    "subtitle": "Bunardzhika Hill is a public park — services on the summit are limited, but the city centre is just a short walk away. Here is an overview of the types of facilities you can expect nearby.",
+    "items": [
+      {
+        "title": "Public Toilets",
+        "desc": "Public restrooms are available near the monument esplanade and at the main park entrance, usually open during the warmer months.",
+        "hint": "On the hill"
+      },
+      {
+        "title": "Parking",
+        "desc": "Street parking is available on the streets around the foot of the hill. The road to the summit is closed to private cars.",
+        "hint": "Foot of the hill"
+      },
+      {
+        "title": "Restaurants & Cafés",
+        "desc": "There are no food vendors on the summit. Restaurants, cafés and kiosks can be found at the foot of the hill and along Ruski Boulevard in the city centre.",
+        "hint": "City centre"
+      },
+      {
+        "title": "Hotels & Guesthouses",
+        "desc": "A wide range of hotels, hostels and guesthouses is available in central Plovdiv and near the Old Town, within walking distance of the hill.",
+        "hint": "15–30 min walk"
+      },
+      {
+        "title": "Supermarkets & Shops",
+        "desc": "Supermarkets, convenience stores and souvenir shops are located in the centre and around the Markovo Tepe shopping area close to the hill.",
+        "hint": "City centre"
+      },
+      {
+        "title": "Fuel & EV Charging",
+        "desc": "Petrol stations are available on the main city avenues and the ring road, and some of them offer electric vehicle charging points.",
+        "hint": "Ring road"
+      }
+    ],
+    "note": "This is a non-profit educational website. We do not recommend specific businesses — the list above only describes the types of facilities you can expect nearby."
+  },
+  "weather": {
+    "title": "Live Weather & 7-Day Forecast",
+    "subtitle": "Current conditions at Bunardzhika Hill in Plovdiv, refreshed automatically from the free Open-Meteo weather API.",
+    "current": "Now",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipNow": "Precipitation",
+    "precipProb": "Rain chance",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "forecastTitle": "7-Day Forecast",
+    "today": "Today",
+    "updated": "Updated",
+    "source": "Data source",
+    "sourceLink": "Open-Meteo.com",
+    "sourceNote": "Free non-commercial weather data provided by the Open-Meteo API. Conditions can change quickly — always check local forecasts before your visit.",
+    "unavailable": "Weather data is temporarily unavailable. Please check a local forecast before planning your climb.",
+    "codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Depositing rime fog",
+      "51": "Light drizzle",
+      "53": "Drizzle",
+      "55": "Dense drizzle",
+      "56": "Freezing drizzle",
+      "57": "Dense freezing drizzle",
+      "61": "Light rain",
+      "63": "Rain",
+      "65": "Heavy rain",
+      "66": "Freezing rain",
+      "67": "Heavy freezing rain",
+      "71": "Light snow",
+      "73": "Snow",
+      "75": "Heavy snow",
+      "77": "Snow grains",
+      "80": "Light rain showers",
+      "81": "Rain showers",
+      "82": "Violent rain showers",
+      "85": "Light snow showers",
+      "86": "Snow showers",
+      "95": "Thunderstorm",
+      "96": "Thunderstorm with hail",
+      "99": "Thunderstorm with heavy hail"
+    }
+  },
+  "stories": {
+    "title": "Stories & Legends",
+    "subtitle": "Behind the stone soldier on Bunardzhika Hill there are stories of liberation, friendship and a song that made the monument famous around the world.",
+    "kindDocumented": "Documented",
+    "kindLegend": "Legend",
+    "kindTradition": "Tradition",
+    "items": [
+      {
+        "kind": "tradition",
+        "title": "The Hill of the Wells",
+        "text": "The name Bunardzhika comes from the Turkish word \"bunar\" (well or spring). In Ottoman times the hillside was dotted with wells that supplied the neighbourhood below — which is why locals also called it the \"Hill of the Wells\"."
+      },
+      {
+        "kind": "documented",
+        "title": "The 1881 Liberators' Monument",
+        "text": "In 1881, only three years after the liberation of Plovdiv, a monument to the Russian soldiers who fell in the 1877–1878 Russo-Turkish War was raised on the hill — giving Bunardzhika its second name, the Hill of the Liberators. Decades later, in the 1950s, the old monument was removed to make way for the Alyosha Monument."
+      },
+      {
+        "kind": "documented",
+        "title": "The Real \"Alyosha\"",
+        "text": "In September 1944, a young Soviet soldier named Aleksey (Alyosha) Skurlatov arrived in Plovdiv with the Red Army, working to repair the Plovdiv–Sofia telephone line. He stayed for almost three years and befriended the locals. Years later, when the city decided to build a monument to the Soviet soldiers, Skurlatov's story — and his face — were chosen as the model."
+      },
+      {
+        "kind": "documented",
+        "title": "The Song That Made It Famous",
+        "text": "In 1962, Soviet composer Eduard Kolmanovsky visited Plovdiv and was deeply moved by the monument. Together with poet Konstantin Vanshenkin he wrote the song \"Alyosha\", released in 1966. It became a huge hit across the USSR, turning the monument in faraway Plovdiv into a symbol of the Soviet soldier for millions of people."
+      },
+      {
+        "kind": "documented",
+        "title": "A Monument That Was Debated — But Stayed",
+        "text": "After 1989, the future of the Alyosha Monument was debated in Plovdiv many times — in the city council, in the media and among citizens. Despite the discussions, the monument has never been removed. Today it serves mainly as a city landmark, a meeting point and one of the best sunset viewpoints in Plovdiv."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Further Reading",
+    "subtitle": "This page was compiled from the following official and reference sources. Visitor numbers and opening hours are indicative — always check the official websites before your trip.",
+    "items": [
+      {
+        "name": "Visit Plovdiv — The Hills of Plovdiv",
+        "url": "https://www.visitplovdiv.com/en/node/697",
+        "note": "Official tourist portal of Plovdiv; description of Bunardzhika Hill (Hill of the Liberators)."
+      },
+      {
+        "name": "Visit Plovdiv — Monument to Russian Liberators",
+        "url": "https://www.visitplovdiv.com/en/node/655",
+        "note": "Official tourist portal; the 1881 monument that once stood on Bunardzhika Hill."
+      },
+      {
+        "name": "Wikipedia — Alyosha Monument",
+        "url": "https://en.wikipedia.org/wiki/Alyosha_Monument",
+        "note": "Reference article with the history, architecture and public debates."
+      },
+      {
+        "name": "Wikipedia — Alyosha (song)",
+        "url": "https://en.wikipedia.org/wiki/Alyosha_(song)",
+        "note": "The 1966 song by Kolmanovsky and Vanshenkin inspired by the monument."
+      },
+      {
+        "name": "Lost In Plovdiv — 5 Monuments on Bunardzhika Hill",
+        "url": "https://lostinplovdiv.com/en/articles/5-monuments-on-bunardzhika-hill/",
+        "note": "Local culture portal; an overview of the monuments that have stood on the hill."
+      },
+      {
+        "name": "Plovdiv Municipality",
+        "url": "https://www.plovdiv.bg/",
+        "note": "Official website of Plovdiv Municipality, which maintains the park and the monument."
+      }
+    ]
+  },
   "footer": {
-    "brandName": "\"Alyosha\" Monument",
-    "brandSubtitle": "Plovdiv Province · Bunardzhika Hill",
+    "brandName": "Alyosha Monument",
+    "brandSubtitle": "Plovdiv · Bunardzhika Hill",
     "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "photoCredit": "All photos displayed on this website are the property of their respective photographers; all image copyrights remain with the original authors.",
+    "lastUpdated": "Content last reviewed: September 1, 2026",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -255,12 +430,12 @@
     }
   },
   "officialManagement": {
-    "title": "About Youth Hill",
-    "text": "Youth Hill is maintained by the local authorities and cultural heritage organizations. It is an important part of Bulgaria's historical landmarks."
+    "title": "About Bunardzhika Hill",
+    "text": "Bunardzhika Hill (Хълм „Бунарджика“), also called the Hill of Liberators, is one of Plovdiv's historic hills. The park and the Alyosha Monument are maintained by Plovdiv Municipality as a public recreational and cultural site."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: June 2026",
+    "lastUpdated": "Last updated: September 1, 2026",
     "sections": [
       {
         "heading": "Information Collection",
@@ -278,11 +453,11 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: June 2026",
+    "lastUpdated": "Last updated: September 1, 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Youth Hill. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This website provides travel, transport, and historical information about the Alyosha Monument and Bunardzhika Hill in Plovdiv. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
       },
       {
         "heading": "Intellectual Property",

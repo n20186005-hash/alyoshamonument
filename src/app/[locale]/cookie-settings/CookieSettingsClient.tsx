@@ -71,6 +71,28 @@ export default function CookieSettingsClient() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
+
+    // Load GA4 immediately if the user has just given analytics consent.
+    if (analytics) {
+      try {
+        const w = window as any;
+        w.dataLayer = w.dataLayer || [];
+        const gtag = (...args: unknown[]) => {
+          w.dataLayer.push(args);
+        };
+        gtag('js', new Date());
+        gtag('config', 'G-HXM22WWPKP', { anonymize_ip: true });
+        if (!document.querySelector('script[src*="gtag/js?id=G-HXM22WWPKP"]')) {
+          const s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP';
+          document.head.appendChild(s);
+        }
+      } catch (e) {
+        // Ignore analytics failures
+      }
+    }
+    window.dispatchEvent(new Event('consent-updated'));
   }
 
   return (

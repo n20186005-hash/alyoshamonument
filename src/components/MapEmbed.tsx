@@ -4,7 +4,7 @@ import { useMessages } from 'next-intl';
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
   const messages = useMessages() as any;
-  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/UKL7jt52HVUDLHWp9';
+  const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/vqoPaMATs3mQh3EL6';
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -23,21 +23,22 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Monument+of+the+Soviet+Army+Alyosha,+Plovdiv,+Bulgaria&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5261.7763351969725!2d24.737763!3d42.143766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14acd1c8193fc5d7%3A0x8597c6862d63a401!2sMonument%20of%20the%20Red%20Army%20%22Alyosha%22!5e1!3m2!1szh-CN!2s!4v1788266230051!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Alyosha Monument"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Monument of the Red Army Alyosha, Bunardzhika Hill, Plovdiv"
           />
         </div>
+
+        {/* Plus Code */}
+        <p className="mt-4 text-sm" style={{ color: 'var(--text-muted)' }}>
+          Plus Code: <strong style={{ color: 'var(--text-primary)' }}>4PVQ+G4 Plovdiv, Bulgaria</strong>
+        </p>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">

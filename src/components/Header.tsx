@@ -29,7 +29,7 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={logoHref} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a href={logoHref} className="font-display text-lg font-semibold tracking-tight truncate max-w-[45vw] sm:max-w-none" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
           {tHero('title')}
         </a>
 
@@ -37,7 +37,7 @@ export default function Header() {
           {(['gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
-              href={`/#${section}`}
+              href={`/${locale}#${section}`}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >

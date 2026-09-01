@@ -3,7 +3,7 @@ import { useTranslations } from 'next-intl';
 export default function Hero() {
   const t = useTranslations('hero');
 
-  const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/UKL7jt52HVUDLHWp9';
+  const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/vqoPaMATs3mQh3EL6';
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -11,7 +11,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/monument-red-army-alyosha-plovdiv (1).jpg"
-          alt="Alyosha Monument"
+          alt="Alyosha Monument on Bunardzhika Hill Plovdiv sunset view"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
         <div className="max-w-3xl">
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
-            {t('title')}
+            {t('title')} ({t('city')})
           </h1>
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}
