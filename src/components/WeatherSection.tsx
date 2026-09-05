@@ -1,5 +1,6 @@
 import { getTranslations, getLocale } from 'next-intl/server';
 import { getWeather, weatherIconKind, type WeatherIconKind } from '@/lib/weather';
+import { buildWeatherAdvice, ADVICE_GROUPS } from '@/lib/weather-advice';
 
 function WeatherGlyph({ kind, size = 26 }: { kind: WeatherIconKind; size?: number }) {
   const p = {
@@ -80,6 +81,12 @@ export default async function WeatherSection() {
   const codes = (t.raw('codes') ?? {}) as Record<string, string>;
   const codeLabel = (code: number) => codes[String(code)] || String(code);
 
+  const advice = data ? buildWeatherAdvice(data) : null;
+  const todayPop = data?.daily.precipitation_probability_max[0] ?? null;
+  const totalTips = advice
+    ? advice.outfit.length + advice.plan.length + advice.gear.length + advice.risk.length
+    : 0;
+
   const dayFmt = new Intl.DateTimeFormat(locale, { weekday: 'short' });
   const fmtHHMM = (iso: string) => (iso ? iso.slice(11, 16) : '');
 
@@ -138,8 +145,8 @@ export default async function WeatherSection() {
                   <span className="value">{Math.round(data.current.wind_speed_10m)} km/h</span>
                 </div>
                 <div className="weather-metric">
-                  <span className="label">{t('precipNow')}</span>
-                  <span className="value">{data.current.precipitation.toFixed(1)} mm</span>
+                  <span className="label">{t('precipProb')}</span>
+                  <span className="value">{todayPop == null ? '–' : `${todayPop}%`}</span>
                 </div>
               </div>
 
@@ -154,6 +161,37 @@ export default async function WeatherSection() {
                 </span>
               </div>
             </div>
+
+            {advice && totalTips > 0 && (
+              <div className="weather-guide">
+                {advice.risk.length > 0 && (
+                  <div className="guide-risk">
+                    <h4 className="guide-heading">{t('advice.riskTitle')}</h4>
+                    <ul className="guide-list">
+                      {advice.risk.map((key) => (
+                        <li key={key}>{t(`advice.risk.${key}`)}</li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+                <div className="guide-grid">
+                  {ADVICE_GROUPS.slice(0, 3).map((group) => {
+                    const keys = advice[group];
+                    if (keys.length === 0) return null;
+                    return (
+                      <div key={group} className={`guide-block guide-${group}`}>
+                        <h4 className="guide-heading">{t(`advice.${group}Title`)}</h4>
+                        <ul className="guide-list">
+                          {keys.map((key) => (
+                            <li key={key}>{t(`advice.${group}.${key}`)}</li>
+                          ))}
+                        </ul>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
 
             <h3 className="weather-forecast-title">{t('forecastTitle')}</h3>
             <div className="weather-forecast">

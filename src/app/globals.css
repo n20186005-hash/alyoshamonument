@@ -41,6 +41,9 @@
   --tag-bg: var(--color-sand-200);
   --tag-text: var(--color-nature-700);
   --map-border: var(--color-sand-300);
+  --risk: #b3261e;
+  --risk-bg: #fdf2f0;
+  --risk-border: #ecd0ca;
 }
 
 [data-theme="dark"] {
@@ -59,6 +62,9 @@
   --tag-bg: #1e3a28;
   --tag-text: #a0c4a8;
   --map-border: #1e3a28;
+  --risk: #ff9b92;
+  --risk-bg: #381f1d;
+  --risk-border: #66342f;
 }
 
 * {
@@ -456,4 +462,91 @@ a {
 .weather-source a {
   color: var(--accent);
   font-weight: 600;
+}
+
+/* Weather guide (visitor tips) */
+.weather-guide {
+  padding: 1.5rem;
+  border-radius: 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-shadow);
+  margin-bottom: 2.5rem;
+}
+.guide-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+}
+@media (min-width: 860px) {
+  .guide-grid {
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  }
+}
+.guide-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.6rem;
+  color: var(--text-primary);
+}
+.guide-heading::before {
+  content: '';
+  flex: none;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--color-water-600);
+}
+.guide-block.guide-plan .guide-heading::before {
+  background: var(--color-nature-500);
+}
+.guide-block.guide-gear .guide-heading::before {
+  background: var(--color-autumn-500);
+}
+.guide-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.guide-list li {
+  position: relative;
+  padding-left: 1.05rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+.guide-list li::before {
+  content: '';
+  position: absolute;
+  left: 0.1rem;
+  top: 0.62em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--border-color);
+}
+.guide-risk {
+  border: 1px solid var(--risk-border);
+  background: var(--risk-bg);
+  border-radius: 0.8rem;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.5rem;
+}
+.guide-risk .guide-heading {
+  color: var(--risk);
+}
+.guide-risk .guide-heading::before {
+  background: var(--risk);
+}
+.guide-risk .guide-list li {
+  color: var(--text-primary);
+}
+.guide-risk .guide-list li::before {
+  background: var(--risk);
 }

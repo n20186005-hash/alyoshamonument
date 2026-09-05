@@ -287,7 +287,6 @@
     "feelsLike": "Feels like",
     "humidity": "Humidity",
     "wind": "Wind",
-    "precipNow": "Precipitation",
     "precipProb": "Rain chance",
     "sunrise": "Sunrise",
     "sunset": "Sunset",
@@ -298,6 +297,51 @@
     "sourceLink": "Open-Meteo.com",
     "sourceNote": "Conditions can change quickly — always check local forecasts before your visit.",
     "unavailable": "Weather data is temporarily unavailable. Please check a local forecast before planning your climb.",
+    "advice": {
+      "outfitTitle": "What to wear",
+      "planTitle": "What to do",
+      "gearTitle": "Don't forget",
+      "riskTitle": "Safety note",
+      "outfit": {
+        "diurnal": "Big swing between day and night temps — bring a light layer to add or remove",
+        "cold": "It stays cool today — a warm coat and jumper will keep you cosy",
+        "heat": "It's hot — go for light, breathable clothes",
+        "rainChance": "Rain is likely — grab an umbrella or raincoat before heading out",
+        "rainLight": "Light rain will make paths slick — wear shoes with good grip",
+        "wind5": "It's breezy on the hill — wear a windbreaker and mind your hat",
+        "snow": "Snow is expected — wear warm, non-slip shoes and watch your step"
+      },
+      "plan": {
+        "rainChance": "If it rains, pick indoor sights first and save the hilltop views for a drier day",
+        "rainLight": "Outdoor views will be muted — mix in some indoor stops",
+        "rainHeavy": "Skip outdoor sightseeing — museums or galleries work better; postpone the climb",
+        "thunder": "During the storm, stay off the hill and out of open high ground — wait until it passes",
+        "fog": "Fog will hide the panorama — save the viewpoint until it lifts",
+        "clear": "A clear day is perfect for exploring — end it with a sunset from the hilltop",
+        "cloudy": "Soft light from the clouds is great for photos and comfy for a long walk",
+        "heat": "Avoid the hottest midday hours — plan outdoor time for early morning or late afternoon",
+        "wind5": "Stronger wind up top — keep a steady grip on your phone and camera, and watch the steps",
+        "windGale": "Strong winds make the climb unsafe — enjoy indoor sights in the city instead",
+        "snow": "The snow-covered hilltop is beautiful, but it's cold — don't stay out too long"
+      },
+      "gear": {
+        "rainChance": "compact umbrella (or rain poncho)",
+        "rainLight": "compact umbrella",
+        "rainHeavy": "raincoat — more practical than an umbrella in the wind",
+        "heat": "sunscreen, sun hat, plenty of water",
+        "heatUV": "sunscreen, sunglasses, sun hat, water",
+        "uv": "sunscreen, sunglasses, sun hat",
+        "cold": "a scarf and gloves",
+        "snow": "warm gloves and a hat",
+        "fog": "face mask (if you need one)"
+      },
+      "risk": {
+        "thunder": "Lightning risk: avoid the summit, open ground and tall trees — head indoors promptly",
+        "rainHeavy": "Heavy rain: keep clear of valleys and low spots — paths up the hill will be slippery",
+        "windGale": "Gale-force wind: stay away from trees and structures — avoid the summit right now",
+        "fog": "Poor visibility: views will be limited, take care on the paths"
+      }
+    },
     "codes": {
       "0": "Clear sky",
       "1": "Mainly clear",
