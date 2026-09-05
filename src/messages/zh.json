@@ -282,7 +282,7 @@
   },
   "weather": {
     "title": "实时天气与 7 日预报",
-    "subtitle": "普罗夫迪夫布纳吉卡山的实时天气，每 30 分钟自动从免费的 Open-Meteo 天气 API 更新。",
+    "subtitle": "普罗夫迪夫布纳吉卡山的实时天气，每 30 分钟自动更新。",
     "current": "现在",
     "feelsLike": "体感温度",
     "humidity": "湿度",
@@ -296,7 +296,7 @@
     "updated": "更新于",
     "source": "数据来源",
     "sourceLink": "Open-Meteo.com",
-    "sourceNote": "本模块使用 Open-Meteo 免费非商业天气 API 数据。天气可能快速变化——出行前请务必查看当地天气预报。",
+    "sourceNote": "天气可能快速变化——出行前请务必查看当地天气预报。",
     "unavailable": "天气数据暂时不可用。出行前请查看当地天气预报。",
     "codes": {
       "0": "晴",

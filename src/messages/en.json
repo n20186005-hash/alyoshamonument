@@ -282,7 +282,7 @@
   },
   "weather": {
     "title": "Live Weather & 7-Day Forecast",
-    "subtitle": "Current conditions at Bunardzhika Hill in Plovdiv, refreshed automatically from the free Open-Meteo weather API.",
+    "subtitle": "Current conditions at Bunardzhika Hill in Plovdiv, refreshed automatically.",
     "current": "Now",
     "feelsLike": "Feels like",
     "humidity": "Humidity",
@@ -296,7 +296,7 @@
     "updated": "Updated",
     "source": "Data source",
     "sourceLink": "Open-Meteo.com",
-    "sourceNote": "Free non-commercial weather data provided by the Open-Meteo API. Conditions can change quickly — always check local forecasts before your visit.",
+    "sourceNote": "Conditions can change quickly — always check local forecasts before your visit.",
     "unavailable": "Weather data is temporarily unavailable. Please check a local forecast before planning your climb.",
     "codes": {
       "0": "Clear sky",
