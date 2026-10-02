@@ -8,13 +8,14 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://alyoshamonument.com';
+  const baseUrl = 'https://www.alyoshamonument.com';
   const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
   const bgUrl = `${baseUrl}/bg/terms-of-service`;
   const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
+    robots: { index: false, follow: true },
     alternates: {
       canonical: selfUrl,
       languages: {

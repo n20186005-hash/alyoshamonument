@@ -11,8 +11,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/monument-red-army-alyosha-plovdiv (1).jpg"
-          alt="Alyosha Monument on Bunardzhika Hill Plovdiv sunset view"
+          alt="Alyosha Monument overlooking Plovdiv from Bunardzhika Hill"
           className="w-full h-full object-cover"
+          fetchPriority="high"
+          decoding="async"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -21,7 +23,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
         <div className="max-w-3xl">
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
-            {t('title')} ({t('city')})
+            {t('title')} in {t('city')}
           </h1>
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}
@@ -56,6 +58,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
           </div>
+          <p className="text-xs text-white/60 mt-3 animate-fade-in-up animation-delay-200">{t('ratingNote')}</p>
         </div>
       </div>
 

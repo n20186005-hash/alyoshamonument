@@ -8,7 +8,7 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
-const baseUrl = 'https://alyoshamonument.com';
+const baseUrl = 'https://www.alyoshamonument.com';
 
 const htmlLangMap: Record<string, string> = {
   zh: 'zh-CN',
@@ -26,19 +26,21 @@ const touristAttractionJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'TouristAttraction',
   '@id': `${baseUrl}/#attraction`,
-  name: 'Monument of the Red Army "Alyosha"',
+  name: 'Alyosha Monument',
   alternateName: [
-    'Alyosha Monument',
+    'Monument of the Red Army "Alyosha"',
     'Паметник на Червената армия „Альоша“',
     'Soviet Monument Plovdiv',
+    'Monument of the Red Army Plovdiv',
   ],
   description:
-    'An iconic 11-metre-tall statue of a Soviet soldier, located on Bunardzhika Hill in Plovdiv, Bulgaria. A free, open-air monument offering panoramic views over the city.',
+    'A 10.5-metre-tall statue of a Soviet soldier on Bunardzhika Hill in Plovdiv, Bulgaria. A free, open-air monument and one of the city’s best sunset viewpoints, with panoramic views over Plovdiv.',
   url: baseUrl,
   image: [
     `${baseUrl}/gallery/monument-red-army-alyosha-plovdiv%20(1).jpg`,
   ],
   isAccessibleForFree: true,
+  publicAccess: true,
   touristType: ['Historic Landmark', 'Open-Air Monument', 'Viewpoint'],
   address: {
     '@type': 'PostalAddress',
@@ -57,12 +59,8 @@ const touristAttractionJsonLd = {
   sameAs: [
     'https://maps.app.goo.gl/vqoPaMATs3mQh3EL6',
     'https://www.visitplovdiv.com/',
+    'https://en.wikipedia.org/wiki/Alyosha_Monument',
   ],
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '4.6',
-    reviewCount: '5284',
-  },
 };
 
 export async function generateMetadata({
@@ -126,16 +124,48 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const messages = await getMessages();
 
+  const selfUrl = `${baseUrl}/${locale}`;
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Alyosha Monument, Plovdiv',
+        item: selfUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Bunardzhika Hill',
+        item: `${selfUrl}/bunardzhika-hill`,
+      },
+    ],
+  };
+
   return (
     <html
       lang={htmlLangMap[locale] || 'en'}
       suppressHydrationWarning
     >
       <head>
+        <link
+          rel="preload"
+          as="image"
+          href="/gallery/monument-red-army-alyosha-plovdiv%20(1).jpg"
+          fetchPriority="high"
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(touristAttractionJsonLd),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(breadcrumbJsonLd),
           }}
         />
         <script
